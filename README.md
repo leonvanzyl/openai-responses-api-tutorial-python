@@ -48,3 +48,12 @@ The OpenAI Responses API enables developers to:
 4. Set up your API key:
    - Create a `.env` file based on `example.env`
    - Add your OpenAI API key: `OPENAI_API_KEY=your_api_key_here`
+
+## YouTube Tutorial Series
+
+Follow along with the complete tutorial series on YouTube:
+[OpenAI Responses API Tutorial Playlist](https://www.youtube.com/playlist?list=PL4HikwTaYE0EWV3qieOYooyxb9osQLgou)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
