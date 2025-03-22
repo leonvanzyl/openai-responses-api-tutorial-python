@@ -15,10 +15,7 @@ input_messages = [
 # response = client.responses.create(
 #     model="gpt-4o-mini",
 #     instructions="Respond like a pirate",
-#     input=input_messages,
-#     reasoning={
-#         "effort": "medium"
-#     }
+#     input=input_messages
 # )
 
 # Reasoning
